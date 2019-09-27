@@ -7,5 +7,6 @@ React JS based NBA Player Strength Visualization
 
 - Optimized the user experience by developing an autocomplete player search bar providing a list of players(image and name) in the 
   suggestion list.
-  ![alt text](https://pic1.zhimg.com/v2-2fd69ee56d9b203e9adbe12fac5ac6e0_b.webp)
-  
+
+
+![alt text](https://pic1.zhimg.com/v2-2fd69ee56d9b203e9adbe12fac5ac6e0_b.webp)
