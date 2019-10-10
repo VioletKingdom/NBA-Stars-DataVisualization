@@ -11,4 +11,4 @@ React JS based NBA Player Strength Visualization
 These pictures show the webpage and its functions.
 
 ![alt text](https://pic1.zhimg.com/v2-2fd69ee56d9b203e9adbe12fac5ac6e0_b.webp)
-![alt text](https://imgur.com/76ggHPq)
+![alt text](https://i.imgur.com/76ggHPq.jpg)
